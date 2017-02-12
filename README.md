@@ -19,7 +19,7 @@ create one R script called run_analysis.R that does the following.
 
 This repository includes the following files:
 
-- #### run_analysis.R  : This is the R script that tidy up the raw data. This code includes description of the sentences.
+- run_analysis.R  : This is the R script that tidy up the raw data. This code includes description of the sentences.
 - dataset_tidy.csv: semi-colon separated csv file with the tidy data set
 - subset_tidy     : semi-colon separated csv subset from the tidy dataset including only mean and standard deviation measurements.
 - subset_mean.csv : semi-colon separated csv with the average of each measurement grouped by activity and subject.
