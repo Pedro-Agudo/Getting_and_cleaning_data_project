@@ -1,7 +1,7 @@
 # Getting_and_cleaning_data_project
 This repository includes data sets and documentation about the Getting and Cleaning Data Course Project at Coursera
 
-The original raw data is here:
+I cannot attach the original raw data to this repo because of the size. Instead, heres is the link:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
